@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+
+    //Headings
+    <string name="heading_one">Home Page</string>
+    <string name="heading_two">Menu Page</string>
+    <string name="heading_three">Calculator</string>
+
+    //Description
+    <string name="desc_one">Click on the "Press here to get started" to go to the next page.</string>
+    <string name="desc_two">There is a "Calculator button" to go to the calculation feature.</string>
+    <string name="desc_three">Fill in the text boxes to get your monthly amount.</string>
+</resources>
